@@ -1,0 +1,46 @@
+
+        public static long Res()
+        {
+            long fib = 2, sum = 0, holder = 0;
+            while (fib < 4000000)
+            {
+                sum += fib;
+                long swapper = fib;
+                fib = 4 * fib + holder;
+                holder = swapper;
+            }
+            return sum;
+        }
+
+
+        private static IEnumerable<long> GetFibonacciNumbers()
+        {
+            var first = 0;
+            var second = 1;
+            while (true)
+            {
+                var nextFibonacciNumber = first + second;
+                yield return nextFibonacciNumber;
+                first = second;
+                second = nextFibonacciNumber;
+            }
+        }
+
+
+        public static IEnumerable<long> GetEvenFibonacciNumbersTill(int upperLimit)
+        {
+            var counter = 0;
+            foreach (var currentTerm in GetFibonacciNumbers().TakeWhile(i => i < upperLimit))
+            {
+                counter++;
+                if (counter == 3) // every third term is even
+                {
+                    yield return currentTerm;
+                    counter = 0;
+                }
+            }
+        }
+
+if (i.ToString().Length == i.ToString().Distinct().Count())
+                        number = i;
+                    // Console.Out.Write(i + " ");

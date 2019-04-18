@@ -1,0 +1,11 @@
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/bin/Debug/netcoreapp2.2/Problems.deps.json
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/bin/Debug/netcoreapp2.2/Problems.runtimeconfig.json
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/bin/Debug/netcoreapp2.2/Problems.runtimeconfig.dev.json
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/bin/Debug/netcoreapp2.2/Problems.dll
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/bin/Debug/netcoreapp2.2/Problems.pdb
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/obj/Debug/netcoreapp2.2/Problems.csprojAssemblyReference.cache
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/obj/Debug/netcoreapp2.2/Problems.csproj.CoreCompileInputs.cache
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/obj/Debug/netcoreapp2.2/Problems.AssemblyInfoInputs.cache
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/obj/Debug/netcoreapp2.2/Problems.AssemblyInfo.cs
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/obj/Debug/netcoreapp2.2/Problems.dll
+/Users/mlbd.shahidul/git/TechLearning/ProjectEuler/Problems/obj/Debug/netcoreapp2.2/Problems.pdb
